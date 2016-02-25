@@ -25,7 +25,7 @@ MSG
   s.require_paths = ["lib"]
 
   s.add_dependency 'multi_json', '~> 1.3'
-  s.add_runtime_dependency 'omniauth-oauth2', '~> 1.2'
+  s.add_runtime_dependency 'omniauth-oauth2', '~> 1.3.1'
   s.add_runtime_dependency 'coinbase', '~> 4.0'
   s.add_development_dependency 'rspec', '~> 3.0'
   s.add_development_dependency 'rack-test', '~> 0.6'
